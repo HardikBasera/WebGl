@@ -1,4 +1,5 @@
 # WebGl
 Web development Lab Experiments
-Created by hardik Basera
+Created by Hardik Basera
 For WebGl lab works
+for year 2023
